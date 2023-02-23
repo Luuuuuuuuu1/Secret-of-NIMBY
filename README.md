@@ -88,4 +88,4 @@ Annalyse Bergman, Lakshmi Bhimavarapu, Yi Lu, Ryan Marshall, and Meeyoung Park
 [def]: https://gisdata.fultoncountyga.gov/datasets/d6298dee8938464294d3f49d473bcf15/explore?location=33.767212%2C-84.420550%2C12.00
 [def2]: https://arc-garc.opendata.arcgis.com/datasets/GARC::transit-rail-stations/explore?location=33.766815%2C-84.384652%2C11.00
 [def3]: https://www.atlantapd.org/home/showpublisheddocument/5257
-[def4]: static/img/screen-on-load.png
+[def4]: static/img/screen-on-load.png# Secret-of-NIMBY
